@@ -81,5 +81,5 @@ The project includes implementations of Markowitz's Mean-Variance Optimization m
 
 ## Contributors
 
-- [Khushali Nandani](link-to-contributor-profile) 
+- [Khushali Nandani][(link-to-contributor-profile) ](https://github.com/Khu1208)
 - [Bhumika Gupta](link-to-contributor-profile) 
